@@ -4,7 +4,7 @@
 
 ## 📸️ Screenshots:
 
-|     Inital Lines      |     rotate Lines      |     final Lines      |
+|     Inital Lines      |     rotation Lines      |     selection Lines      |
 | :----------------------: | :-------------------: | :---------------------: |
 | ![Screenshot][initial] | ![Screenshot][rotation] | ![Screenshot][selection] |
 
@@ -19,6 +19,6 @@ you can refer to my blog if you want to get more explanation.
 [demo]: https://github.com/crosscode-software/roulette_wheel_selection
 [example]: https://github.com/crosscode-software/roulette_wheel_selection/tree/main/example
 
-[initial]: https://github.com/crosscode-software/roulette_wheel_selection/tree/main/.github/assets/initial_status.png
-[rotation]: https://github.com/crosscode-software/roulette_wheel_selection/tree/main/.github/assets/rotation_status.png
-[selection]: https://github.com/crosscode-software/roulette_wheel_selection/tree/main/.github/assets/selection_status.png
+[initial]: /.github/assets/initial_status.png
+[rotation]: /.github/assets/rotation_status.png
+[selection]: /.github/assets/selection_status.png
