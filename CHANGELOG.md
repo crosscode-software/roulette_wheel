@@ -1,3 +1,3 @@
-## 0.0.1
+## [0.1.0-nullsafety.0] 16-02-2022
 
-* TODO: Describe initial release.
+* First release.
