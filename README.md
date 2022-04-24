@@ -21,10 +21,9 @@ you can refer to my blog if you want to get more explanation.
 
 [Pixnet] (https://crosscode.pixnet.net/blog/post/57827143-%e5%af%a6%e6%88%b0flutter%e7%a8%8b%e5%bc%8f%e9%96%8b%e7%99%bc---roulette-wheel-selection)
 
-
 [demo]: https://github.com/crosscode-software/roulette_wheel_selection
 [example]: https://github.com/crosscode-software/roulette_wheel_selection/tree/main/example
 
-[initial]: /.github/assets/initial_status.png
-[rotation]: /.github/assets/rotation_status.png
-[selection]: /.github/assets/selection_status.png
+[initial]: .github/assets/initial_status.png
+[rotation]: .github/assets/rotation_status.png
+[selection]: .github/assets/selection_status.png

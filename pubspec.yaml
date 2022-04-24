@@ -1,7 +1,7 @@
 name: roulette_wheel_selection
 description: > 
   A simple visual widget of roulette wheel selection.
-version: 1.0.0
+version: 1.0.1
 homepage: https://vocus.cc/@cross-code/61ee44dffd897800014cabb1
 repository: https://github.com/crosscode-software/roulette_wheel_selection
 
