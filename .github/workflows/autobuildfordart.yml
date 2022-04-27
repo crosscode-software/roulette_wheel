@@ -25,7 +25,8 @@ jobs:
       - run: flutter pub get
       - run: |
           cd example
-          flutter build web --release
+          # flutter build web --release
+          flutter build web --web-renderer html
       - run: |
           cd example/build/web
           git init
