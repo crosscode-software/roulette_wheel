@@ -37,10 +37,10 @@ jobs:
           
           git status
           git remote add origin https://${{secrets.rws_accesstoken}}@github.com/crosscode-software/roulette_wheel_selection.git
-          git checkout -b gh-pages
+          git checkout -b build_web
           git add --all
           git commit -m "update"
-          git push origin gh-pages -f
+          git push origin build_web -f
           
       # Note: This workflow uses the latest stable version of the Dart SDK.
       # You can specify other versions if desired, see documentation here:
