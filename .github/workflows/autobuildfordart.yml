@@ -34,7 +34,7 @@ jobs:
           git config --global user.name crosscode-software
           
           git status
-          git remote add origin https://${{secrets.rws_accesstoken}}@github.com/crosscode-software/roulette-wheel-selection.git
+          git remote add origin https://${{secrets.rws_accesstoken}}@github.com:crosscode-software/roulette_wheel_selection.git
           git checkout -b gh-pages
           git add --all
           git commit -m "update"
