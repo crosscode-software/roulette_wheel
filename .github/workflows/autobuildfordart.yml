@@ -34,8 +34,7 @@ jobs:
           git config --global user.name crosscode-software
           
           git status
-          # change this remote url for examle your remote url is https://github.com/crosscode-software/flutter_web.git then the following:
-          git remote add origin https://${{secrets.rws_accesstoken}}@github.com/crosscode-software/roulette-wheel-selection.github.io.git
+          git remote add origin https://${{secrets.rws_accesstoken}}@github.com/crosscode-software/roulette-wheel-selection.git
           git checkout -b gh-pages
           git add --all
           git commit -m "update"
